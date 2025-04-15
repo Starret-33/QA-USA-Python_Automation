@@ -1,6 +1,6 @@
 # File with constants
 #URL from the start server button
-URBAN_ROUTES_URL = 'Stop'
+URBAN_ROUTES_URL = 'https://cnt-e625befc-3851-4dbd-a934-366cfdb20b9b.containerhub.tripleten-services.com'
 #Description and test data as constants
 ADDRESS_FROM = 'East 2nd Street, 601'
 ADDRESS_TO = '1300 1st St'
